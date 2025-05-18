@@ -21,7 +21,6 @@ Welcome to my world of mechatronics, game development, and creative tech hacking
 - 🎮 **Magic Blokers** – Real-time PvP Web3 game for the Magic Block Hackathon
 - 🧠 **TrendZiller** – AI Agent that crafts viral posts for hackathon participants
 - 🔬 **4-Arm Surgical Robot** – Controlled by foot pedals with custom firmware + RoboDK sim
-- 🎧 **NanaSound** – A next-gen speaker system powered by thermal audio physics
 - 🔩 **Gym Load Platform** – Custom designed in Fusion 360 for 1200 lbs, FEA tested
 - 🎨 **ZGI for Artemis II** – Participated in NASA’s Zero Gravity Indicator design challenge
 
