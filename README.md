@@ -1,9 +1,35 @@
-- 👋 Hi, I’m @SHEMZILLER
-- 👀 I’m interested in 3D animation and gaming
-- 🌱 I’m currently learning blender
-- 📫 How to reach me YouTube @SHEMZILLER Facebook@SHEMZILLER EVERYWHERE @SHEMZILLER BUT TWEETER@SHEMZILLER3
+# 👋 Hey there, I'm Shemziller
 
-<!---
-SHEMZILLER/SHEMZILLER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=shemziller&label=Profile%20Views&color=blue&style=flat)
+
+Welcome to my world of mechatronics, game development, and creative tech hacking.
+
+---
+
+## 🔧 What I Do
+- 🤖 **Mechatronics Engineering** – From robotic surgery systems to smart gym platforms
+- 🎮 **Game Dev** – Building 2D/3D multiplayer games using **Godot** & **Unreal Engine**
+- 🧠 **AI Projects** – Developing AI agents like **TrendZiller** to shake up social media
+- 🎨 **3D Design & Animation** – Using **Blender**, **Fusion 360**, and **SolidWorks**
+- 🕹️ **Hackathons** – A frequent finalist pushing boundaries in **AI**, **Gaming**, and **Hardware**
+- 🔥 **Thermoacoustic Audio Tech** – Creator of *NanaSound* and IEM integration systems
+- ⛓️ **Blockchain Dev** – Integrating Web3 features into real-time multiplayer games
+
+---
+
+## 🚀 Projects Highlights
+- 🎮 **Magic Blokers** – Real-time PvP Web3 game for the Magic Block Hackathon
+- 🧠 **TrendZiller** – AI Agent that crafts viral posts for hackathon participants
+- 🔬 **4-Arm Surgical Robot** – Controlled by foot pedals with custom firmware + RoboDK sim
+- 🎧 **NanaSound** – A next-gen speaker system powered by thermal audio physics
+- 🔩 **Gym Load Platform** – Custom designed in Fusion 360 for 1200 lbs, FEA tested
+- 🎨 **ZGI for Artemis II** – Participated in NASA’s Zero Gravity Indicator design challenge
+
+---
+
+## 💻 Tech Toolbox
+```bash
+Languages:       Python | C++ | GDScript | Arduino | Solidity
+Tools & IDEs:    Blender | Fusion 360 | Unreal Engine | Godot | RoboDK | VS Code
+Hardware:        Arduino | Raspberry Pi | Custom PCBs | Sensors | Motors
+Blockchain:      Solana | Mirror World SDK | Smart Contracts | Web3
