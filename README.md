@@ -12,7 +12,7 @@ Welcome to my world of mechatronics, game development, and creative tech hacking
 - 🧠 **AI Projects** – Developing AI agents like **TrendZiller** to shake up social media
 - 🎨 **3D Design & Animation** – Using **Blender**, **Fusion 360**, and **SolidWorks**
 - 🕹️ **Hackathons** – A frequent finalist pushing boundaries in **AI**, **Gaming**, and **Hardware**
-- 🔥 **Thermoacoustic Audio Tech** – Creator of *NanaSound* and IEM integration systems
+- 🔥 **Audio Tech** – IEM integration systems
 - ⛓️ **Blockchain Dev** – Integrating Web3 features into real-time multiplayer games
 
 ---
