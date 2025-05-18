@@ -25,6 +25,7 @@ Welcome to my world of mechatronics, game development, and creative tech hacking
 - 🎨 **ZGI for Artemis II** – Participated in NASA’s Zero Gravity Indicator design challenge
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,wasm,py,cpp,cs,arduino,react,nodejs,blender,threejs,solidity,unity,unreal,firebase,vite,vscode,bash,linux,git,github)](https://skillicons.dev)
 
 ## 💻 Tech Toolbox
 ```bash
@@ -32,3 +33,4 @@ Languages:       Python | C++ | GDScript | Arduino | Solidity
 Tools & IDEs:    Blender | Fusion 360 | Unreal Engine | Godot | RoboDK | VS Code
 Hardware:        Arduino | Raspberry Pi | Custom PCBs | Sensors | Motors
 Blockchain:      Solana | Mirror World SDK | Smart Contracts | Web3
+
